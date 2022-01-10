@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = adilizakaria1@gmail.com
+	name = Zakaria Adili
